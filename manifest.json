@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Legacy Curseforge",
+    "description": "Automatically redirects to the legacy Curseforge website.",
+    "version": "1.0",
+    "author": "WFPhantom",
+    "action": {
+      "default_title": "Legacy Curseforge",
+      "default_icon": "nonewcf.png"
+    },
+    "permissions": ["tabs"],
+    "background": {
+      "service_worker": "background.js",
+      "type": "module"
+    },
+    "host_permissions": [
+      "https://www.curseforge.com/*"
+  ]
+  }
