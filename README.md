@@ -2,4 +2,8 @@ Chrome extension that automatically redirects the user to the legacy curseforge 
 
 the new cf website kinda bad
 
-Currently awaiting google review but you can use from source
+Use from source or:
+
+[Download for Chrome](https://chrome.google.com/webstore/detail/legacy-curseforge/demgedckcknojckmoaijngacegggnpem/related)
+
+Mozilla and Edge soontm
