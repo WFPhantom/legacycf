@@ -1,4 +1,4 @@
-Chrome extension that automatically redirects the user to the legacy curseforge website
+Browser extension that automatically redirects the user to the legacy curseforge website
 
 the new cf website kinda bad
 
@@ -8,4 +8,4 @@ Use from source or:
 
 [Download for Edge](https://microsoftedge.microsoft.com/addons/detail/legacy-curseforge/kjeaegognedbnncofajgjcdifgndjeng)
 
-Mozilla soontm
+Mozilla is under review alternatively build from src
