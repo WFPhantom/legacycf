@@ -2,15 +2,19 @@
     "manifest_version": 3,
     "name": "Legacy Curseforge",
     "description": "Automatically redirects to the legacy Curseforge website.",
-    "version": "1.0",
-    "author": "WFPhantom",
-    "action": {
-      "default_title": "Legacy Curseforge",
-      "default_icon": "nonewcf.png"
-    },
+    "version": "1.1",
+	"homepage_url": "https://github.com/WFPhantom/legacycf",
+	"icons":{
+	"96":"nonewcf.png"},
     "permissions": ["tabs"],
     "background": {
-      "service_worker": "background.js",
+	  "scripts": ["background.js"],
       "type": "module"
+    },
+	"browser_specific_settings": {
+    "gecko": {
+      "id": "legacycf@example.com",
+      "strict_min_version": "115.0"
     }
   }
+}
