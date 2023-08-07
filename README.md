@@ -8,4 +8,4 @@ Use from source or:
 
 [Download for Edge](https://microsoftedge.microsoft.com/addons/detail/legacy-curseforge/kjeaegognedbnncofajgjcdifgndjeng)
 
-Mozilla is under review alternatively build from src
+[Download for Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/addon/legacy-curseforge/)
