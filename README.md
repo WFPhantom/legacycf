@@ -4,7 +4,7 @@ the new cf website kinda bad
 
 Use from source or:
 
-[Download for Chrome](https://chrome.google.com/webstore/detail/legacy-curseforge/demgedckcknojckmoaijngacegggnpem/related)
+[Download for Chrome](https://chromewebstore.google.com/detail/legacy-curseforge/demgedckcknojckmoaijngacegggnpem)
 
 [Download for Edge](https://microsoftedge.microsoft.com/addons/detail/legacy-curseforge/kjeaegognedbnncofajgjcdifgndjeng)
 
