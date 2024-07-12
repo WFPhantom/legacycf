@@ -12,5 +12,10 @@
   "content_scripts": [{
     "matches": ["*://www.curseforge.com/*"],
     "js": ["main.js"]
-  }]
+  }],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "legacycf@example.com"
+    }
+  }
 }
